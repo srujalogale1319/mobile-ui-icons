@@ -1,3 +1,10 @@
+/icons/
+   settings.png
+   camera.png
+   gallery.png
+   music.png
+   message.png
+   calculator.png
 # mobile-ui-icons
 📁 Project Overview
 The project showcases 6 unique app icons, each representing a specific functionality:
