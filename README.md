@@ -1,7 +1,7 @@
 /icons/
    settings.png
    camera.png
-   gallery.png
+   photos.png
    music.png
    message.png
    calculator.png
