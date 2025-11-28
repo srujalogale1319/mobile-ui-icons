@@ -1,4 +1,4 @@
-![UI Preview](/settings.png /camera.png /photos.png /music.png /message.png /calculator.png)
+![UI Preview](/settings.png)
 # mobile-ui-icons
 📁 Project Overview
 The project showcases 6 unique app icons, each representing a specific functionality:
