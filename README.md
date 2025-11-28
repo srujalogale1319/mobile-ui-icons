@@ -1,4 +1,4 @@
-/icons/
+[!PREVIEW]
    settings.png
    camera.png
    photos.png
